@@ -1,6 +1,11 @@
-1. Calculate Sharpe ratio tick
+# CN-Trade
 
-2. Automatically update data for selected stocks
+## This repo contains python files that predict china stocks using different quantitative approaches.
 
-3. GUI
+- The stocks are accessed using baostock API
 
+- Strategies are included in the strategies file
+
+- models for LSTM are included in the models files
+
+- stocks data retrieved from API are stored in cn-intraday
