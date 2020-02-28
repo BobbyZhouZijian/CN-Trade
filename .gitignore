@@ -1,0 +1,9 @@
+# MacOs
+.DS_Store
+
+# csv
+cn_intraday/*.csv
+
+# models
+models/*
+
